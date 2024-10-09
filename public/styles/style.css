@@ -67,10 +67,11 @@ body{
     justify-content: center;
     align-items: center;
     height: 100%;
+    width: 50%;
 }
 
 .banner .container p{
-    width: 70%;
+    width: 100%;
     margin: 0;
     padding: 0;
     font-size: 36px;
@@ -94,6 +95,7 @@ body{
     justify-content: space-between;
     width: 100%;
     padding: 30px 0;
+    align-items: center;
 }
 
 .box{
